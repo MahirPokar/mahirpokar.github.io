@@ -7,6 +7,7 @@ layout: homepage
 I am a graduate student studying Robotics at the University of Manchester. I received my BSc (Hons) from the Beijing University of Technology.
 
 ## Research Interests
+
 - **Image Processing** 
 - **Robotics**
 - **VR/AR**
@@ -14,12 +15,13 @@ I am a graduate student studying Robotics at the University of Manchester. I rec
 
 {% include_relative _includes/publications.md %}
 
-## News
+## Publications & Working Papers
 
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+- **[Jul. 2023]**  A Fast Learned Image Compression with Quick Depth-Residual Attention Module(Q-DRAM) and
+Post-processing.[J]. Multimedia tools and applications.(Under review)
+- **[Sept. 2022]**  Based on Machine Learning: Differentiating between Sea Otters and River Otters[c]. The 3rd International Conference on Signal Processing and Machine Learning (CONF-SPML 2023).
+
+
 
 
 {% include_relative _includes/services.md %}
