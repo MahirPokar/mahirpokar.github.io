@@ -15,6 +15,9 @@ I am a graduate student studying Robotics at the University of Manchester. I rec
 
 {% include_relative _includes/publications.md %}
 
+
+{% include_relative _includes/professional_projects.md %}
+
 ## Publications & Working Papers
 
 - **[Jul. 2023]**  A Fast Learned Image Compression with Quick Depth-Residual Attention Module(Q-DRAM) and
