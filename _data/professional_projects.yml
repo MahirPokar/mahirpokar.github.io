@@ -1,19 +1,19 @@
 main:
 
-  - title: Research on image compression algorithms based on deep learning
-    authors: <strong>Ziyi Cheng</strong>
+  - title: Virtual Winter Olympic Village
+    authors: <strong>Ziyi Cheng</strong>, Siming Zheng, Xinyi Wang, Xinyu Wang
     conference_short: MICCAI
-    conference: A research project led by Prof. Wang of BJUT
+    conference: A research-based practical project
     pdf: https://arxiv.org/pdf/2306.00988.pdf
     code: https://github.com/MrGiovanni/ContinualLearning
     bibtex: https://bib.yliu.me/MICCAI23.txt
     image: ./assets/img/teaser_example_2.png
     notes: Early Accept
 
-  - title: Machine learning-based study to distinguish sea otters from river otters
-    authors: <strong>Ziyi Cheng</strong>
+  - title: OGI Immersive Space
+    authors: <strong>Ziyi Cheng</strong>, Zidong Yin, Xiaoyang Zhang
     conference_short: CVPR
-    conference: A research project led by Prof. Rogers of the University of Oxford
+    conference: A research-based practical project
     pdf: https://arxiv.org/pdf/2002.10211.pdf
     code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
     page: https://class-il.mpi-inf.mpg.de/mnemonics/
@@ -21,10 +21,21 @@ main:
     notes: Oral Presentation
     image: ./assets/img/teaser_example.png
   
-  - title: Research on face reconstruction based on 3DMM and neural networks
-    authors: <strong>Ziyi Cheng</strong>
+  - title: POP ART FIGHT 2D Game
+    authors: <strong>Ziyi Cheng</strong>, Siming Zheng
     conference_short: CVPR
-    conference: A research project led by Prof. Wang of BJUT
+    conference: A practical project
+    pdf: https://arxiv.org/pdf/2002.10211.pdf
+    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
+    page: https://class-il.mpi-inf.mpg.de/mnemonics/
+    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+    notes: Oral Presentation
+    image: ./assets/img/teaser_example.png
+    
+  - title: Beijing 2022 Olympic and Paralympic Winter Games
+    authors: <strong>Ziyi Cheng (Assistant Technical Manager)</strong>
+    conference_short: CVPR
+    conference: 
     pdf: https://arxiv.org/pdf/2002.10211.pdf
     code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
     page: https://class-il.mpi-inf.mpg.de/mnemonics/
