@@ -4,12 +4,15 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+I am a graduate student studying Robotics at the University of Manchester. I received my BSc (Hons) from the Beijing University of Technology.
 
 ## Research Interests
+- **Image Processing** 
+- **Robotics**
+- **VR/AR**
+- **Machine Learning**
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+{% include_relative _includes/publications.md %}
 
 ## News
 
@@ -18,6 +21,5 @@ I am a Ph.D. student at ...
 - **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
 - **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
 
-{% include_relative _includes/publications.md %}
 
 {% include_relative _includes/services.md %}
