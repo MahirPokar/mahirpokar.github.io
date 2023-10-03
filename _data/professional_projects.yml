@@ -2,7 +2,7 @@ main:
 
   - title: Virtual Winter Olympic Village
     authors: <strong>Ziyi Cheng</strong>, Siming Zheng, Xinyi Wang, Xinyu Wang
-    conference_short: Image Processing/ML
+    conference_short: Virtual Reality
     conference: A research-based practical project
     pdf: https://arxiv.org/pdf/2306.00988.pdf
     code: https://github.com/MrGiovanni/ContinualLearning
@@ -12,7 +12,7 @@ main:
 
   - title: OGI Immersive Space
     authors: <strong>Ziyi Cheng</strong>, Zidong Yin, Xiaoyang Zhang
-    conference_short: CVPR
+    conference_short: Mix Reality
     conference: A research-based practical project
     pdf: https://arxiv.org/pdf/2002.10211.pdf
     code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
@@ -23,7 +23,7 @@ main:
   
   - title: POP ART FIGHT 2D Game
     authors: <strong>Ziyi Cheng</strong>, Siming Zheng
-    conference_short: CVPR
+    conference_short: Unity/Programming
     conference: A practical project
     pdf: https://arxiv.org/pdf/2002.10211.pdf
     code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
