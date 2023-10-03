@@ -2,7 +2,7 @@ main:
 
   - title: Virtual Winter Olympic Village
     authors: <strong>Ziyi Cheng</strong>, Siming Zheng, Xinyi Wang, Xinyu Wang
-    conference_short: MICCAI
+    conference_short: Image Processing/ML
     conference: A research-based practical project
     pdf: https://arxiv.org/pdf/2306.00988.pdf
     code: https://github.com/MrGiovanni/ContinualLearning
