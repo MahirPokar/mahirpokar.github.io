@@ -21,7 +21,7 @@ main:
     notes: Oral Presentation
     image: ./assets/img/otter.png
   
-  - title: Research on face reconstruction based on 3DMM and neural networks
+  - title: Research on face detection and reconstruction based on 3DMM and neural networks
     authors: <strong>Ziyi Cheng</strong>
     conference_short: CVPR
     conference: A research project led by Prof. Wang of BJUT
