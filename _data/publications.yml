@@ -12,7 +12,7 @@ main:
 
   - title: Machine learning-based study to distinguish sea otters from river otters
     authors: <strong>Ziyi Cheng</strong>
-    conference_short: Image Processing/ML
+    conference_short: Machine Learning
     conference: A research project led by Prof. Rogers of the University of Oxford
     pdf: https://arxiv.org/pdf/2002.10211.pdf
     code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
