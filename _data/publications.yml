@@ -19,7 +19,7 @@ main:
     page: https://class-il.mpi-inf.mpg.de/mnemonics/
     bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
     notes: Oral Presentation
-    image: ./assets/img/teaser_example.png
+    image: ./assets/img/otter.png
   
   - title: Research on face reconstruction based on 3DMM and neural networks
     authors: <strong>Ziyi Cheng</strong>
