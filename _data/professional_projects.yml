@@ -23,7 +23,7 @@ main:
   
   - title: POP ART FIGHT 2D Game
     authors: <strong>Ziyi Cheng</strong>, Siming Zheng
-    conference_short: Unity/Programming
+    conference_short: Programming/Unity
     conference: A practical project
     pdf: https://arxiv.org/pdf/2002.10211.pdf
     code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
