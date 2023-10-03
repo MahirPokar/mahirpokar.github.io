@@ -2,7 +2,7 @@ main:
 
   - title: Research on image compression algorithms based on deep learning
     authors: <strong>Ziyi Cheng</strong>
-    conference_short: MICCAI
+    conference_short: Image Processing/ML
     conference: A research project led by Prof. Wang of BJUT
     pdf: https://arxiv.org/pdf/2306.00988.pdf
     code: https://github.com/MrGiovanni/ContinualLearning
@@ -12,7 +12,7 @@ main:
 
   - title: Machine learning-based study to distinguish sea otters from river otters
     authors: <strong>Ziyi Cheng</strong>
-    conference_short: CVPR
+    conference_short: Image Processing/ML
     conference: A research project led by Prof. Rogers of the University of Oxford
     pdf: https://arxiv.org/pdf/2002.10211.pdf
     code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
@@ -23,7 +23,7 @@ main:
   
   - title: Research on face detection and reconstruction based on 3DMM and neural networks
     authors: <strong>Ziyi Cheng</strong>
-    conference_short: CVPR
+    conference_short: Image Processing/ML
     conference: A research project led by Prof. Wang of BJUT
     pdf: https://arxiv.org/pdf/2002.10211.pdf
     code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
