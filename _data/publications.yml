@@ -4,7 +4,7 @@ main:
     authors: <strong>Ziyi Cheng</strong>
     conference_short: Image Processing/ML
     conference: A research project led by Prof. Wang of BJUT
-    pdf: https://arxiv.org/pdf/2306.00988.pdf
+    pdf: ./assets/files/image_compression_overview.pdf
     code: https://github.com/MrGiovanni/ContinualLearning
     bibtex: https://bib.yliu.me/MICCAI23.txt
     image: ./assets/img/image_compression.png
