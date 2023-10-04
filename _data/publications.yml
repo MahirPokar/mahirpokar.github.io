@@ -14,7 +14,7 @@ main:
     authors: <strong>Ziyi Cheng</strong>
     conference_short: Machine Learning
     conference: A research project led by Prof. Rogers of the University of Oxford
-    pdf: https://arxiv.org/pdf/2002.10211.pdf
+    pdf: ./assets/files/otter_overview.pdf
     code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
     page: https://class-il.mpi-inf.mpg.de/mnemonics/
     bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
@@ -25,7 +25,7 @@ main:
     authors: <strong>Ziyi Cheng</strong>
     conference_short: Image Processing/ML
     conference: A research project led by Prof. Wang of BJUT
-    pdf: https://arxiv.org/pdf/2002.10211.pdf
+    pdf: ./assets/files/3dmm_overview.pdf
     code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
     page: https://class-il.mpi-inf.mpg.de/mnemonics/
     bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
