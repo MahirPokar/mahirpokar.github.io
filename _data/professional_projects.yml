@@ -4,7 +4,7 @@ main:
     authors: <strong>Ziyi Cheng</strong>, Siming Zheng, Ruihao Yin, Nabi, Xinyi Wang, Xinyu Wang
     conference_short: Virtual Reality
     conference: A research-based practical project
-    pdf: https://arxiv.org/pdf/2306.00988.pdf
+    pdf: ./assets/files/virtual_reality_overview.pdf
     code: https://github.com/MrGiovanni/ContinualLearning
     bibtex: https://bib.yliu.me/MICCAI23.txt
     image: ./assets/img/dongao.png
@@ -14,7 +14,7 @@ main:
     authors: <strong>Ziyi Cheng</strong>, Zidong Yin, Xiaoyang Zhang
     conference_short: Mix Reality
     conference: A research-based practical project
-    pdf: https://arxiv.org/pdf/2002.10211.pdf
+    pdf: ./assets/files/ogi_overview.pdf
     code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
     page: https://class-il.mpi-inf.mpg.de/mnemonics/
     bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
@@ -25,7 +25,7 @@ main:
     authors: <strong>Ziyi Cheng</strong>, Siming Zheng
     conference_short: Programming/Unity
     conference: A practical project
-    pdf: https://arxiv.org/pdf/2002.10211.pdf
+    pdf: ./assets/files/popart_overview.pdf
     code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
     page: https://class-il.mpi-inf.mpg.de/mnemonics/
     bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
