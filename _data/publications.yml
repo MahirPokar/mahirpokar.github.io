@@ -5,20 +5,20 @@ main:
     conference_short: Image Processing/ML
     conference: A research project led by Prof. Wang of BJUT
     pdf: ./assets/files/image_compression_overview.pdf
-    code: https://github.com/MrGiovanni/ContinualLearning
-    bibtex: https://bib.yliu.me/MICCAI23.txt
+    code: https://github.com/
+    bibtex: 
     image: ./assets/img/image_compression.png
-    notes: Early Accept
+    notes: Outstanding Thesis(Score: 92/100)
 
   - title: Machine learning-based study to distinguish sea otters from river otters
     authors: <strong>Ziyi Cheng</strong>
     conference_short: Machine Learning
     conference: A research project led by Prof. Rogers of the University of Oxford
     pdf: ./assets/files/otter_overview.pdf
-    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    notes: Oral Presentation
+    code: https://github.com/
+    page: 
+    bibtex: 
+    notes: Highly Rated
     image: ./assets/img/otter.png
   
   - title: Research on face detection and reconstruction based on 3DMM and neural networks
@@ -26,8 +26,8 @@ main:
     conference_short: Image Processing/ML
     conference: A research project led by Prof. Wang of BJUT
     pdf: ./assets/files/3dmm_overview.pdf
-    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    notes: Oral Presentation
+    code: https://github.com/
+    page: 
+    bibtex: 
+    notes: In-class Presentation
     image: ./assets/img/3dmm.png
