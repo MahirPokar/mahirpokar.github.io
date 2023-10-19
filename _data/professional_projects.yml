@@ -6,9 +6,7 @@ main:
     conference: A research-based practical project
     pdf: ./assets/files/virtual_reality_overview.pdf
     code: https://github.com/
-    bibtex: 
     image: ./assets/img/dongao.png
-    notes: 
 
   - title: OGI Immersive Space
     authors: <strong>Ziyi Cheng</strong>, Zidong Yin, Xiaoyang Zhang
@@ -16,8 +14,6 @@ main:
     conference: A research-based practical project
     pdf: ./assets/files/ogi_overview.pdf
     code: https://github.com/
-    page:
-    bibtex:
     notes: National First Prize
     image: ./assets/img/ogi.png
   
@@ -27,8 +23,5 @@ main:
     conference: A practical project
     pdf: ./assets/files/popart_overview.pdf
     code: https://github.com/
-    page: 
-    bibtex: 
-    notes: 
     image: ./assets/img/pop.png
 
