@@ -8,7 +8,7 @@ main:
     code: https://github.com/
     bibtex: 
     image: ./assets/img/image_compression.png
-    notes: Outstanding Thesis(Score: 92/100)
+    notes: Outstanding Thesis(Score with 92 out of 100)
 
   - title: Machine learning-based study to distinguish sea otters from river otters
     authors: <strong>Ziyi Cheng</strong>
