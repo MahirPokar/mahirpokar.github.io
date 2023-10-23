@@ -5,7 +5,7 @@ main:
     conference_short: Image Processing/ML
     conference: A research project led by Prof. Wang of BJUT
     pdf: ./assets/files/image_compression_overview.pdf
-    code: https://github.com/
+    code: https://github.com/ziyicheng427/image_compression_qdram
     bibtex: 
     image: ./assets/img/image_compression.png
     notes: Outstanding Thesis(Score with 92 out of 100)
@@ -15,7 +15,7 @@ main:
     conference_short: Machine Learning
     conference: A research project led by Prof. Rogers of the University of Oxford
     pdf: ./assets/files/otter_overview.pdf
-    code: https://github.com/
+    code: 
     page: 
     bibtex: 
     notes: Highly Rated
@@ -26,7 +26,7 @@ main:
     conference_short: Image Processing/ML
     conference: A research project led by Prof. Wang of BJUT
     pdf: ./assets/files/3dmm_overview.pdf
-    code: https://github.com/
+    code: https://github.com/ziyicheng427/face_detection-face_recognization
     page: 
     bibtex: 
     notes: 
