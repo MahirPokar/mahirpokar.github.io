@@ -55,3 +55,6 @@ exclude:
   - LICENSE
   - minimal-light.gemspec
   - html_source_file/
+
+# Google Analytics
+google_analytics: G-LW7BGL72B2
