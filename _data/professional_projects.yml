@@ -6,7 +6,7 @@ main:
     conference: A research-based practical project
     pdf: ./assets/files/virtual_reality_overview.pdf
     code:
-    image: ./assets/img/dongao.png
+    image: ./assets/img/virtual_reality.gif
 
   - title: OGI Immersive Space
     authors: <strong>Ziyi Cheng</strong>, Zidong Yin, Xiaoyang Zhang
@@ -15,7 +15,7 @@ main:
     pdf: ./assets/files/ogi_overview.pdf
     code: https://www.dropbox.com/scl/fi/cuctgrw1l6dxvz8un1xqg/OGI-Immersive-Space.mp4?rlkey=4lw4dnkba9agr4wsk1iz4h1jd&dl=0
     notes: National First Prize
-    image: ./assets/img/ogi.png
+    image: ./assets/img/ogi.gif
   
   - title: POP ART FIGHT 2D Game
     authors: <strong>Ziyi Cheng</strong>, Siming Zheng
@@ -23,5 +23,6 @@ main:
     conference: A practical project
     pdf: ./assets/files/popart_overview.pdf
     code: https://www.dropbox.com/scl/fo/6iimgznugpi9jbl6ath9c/h?rlkey=0w120wywb8bc7lqbf23w4wzaw&dl=0
-    image: ./assets/img/pop.png
+    notes: Download and try
+    image: ./assets/img/popart.gif
 
