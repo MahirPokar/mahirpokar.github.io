@@ -7,7 +7,7 @@ main:
     pdf: ./assets/files/image_compression_overview.pdf
     code: https://github.com/ziyicheng427/image_compression_qdram
     bibtex: 
-    image: ./assets/img/image_compression.png
+    image: ./assets/img/image_compression.gif
     notes: Outstanding Thesis(Score with 92 out of 100)
 
   - title: Machine learning-based study to distinguish sea otters from river otters
