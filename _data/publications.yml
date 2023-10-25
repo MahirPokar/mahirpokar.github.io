@@ -19,7 +19,7 @@ main:
     page: 
     bibtex: 
     notes: Highly Rated
-    image: ./assets/img/otter.png
+    image: ./assets/img/otter.gif
   
   - title: Research on face detection and reconstruction based on 3DMM and neural networks
     authors: <strong>Ziyi Cheng</strong>
@@ -30,4 +30,4 @@ main:
     page: 
     bibtex: 
     notes: 
-    image: ./assets/img/3dmm.png
+    image: ./assets/img/3dmm.gif
