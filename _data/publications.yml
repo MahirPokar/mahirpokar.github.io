@@ -22,7 +22,7 @@ main:
     image: ./assets/img/otter.gif
   
   - title: Research on face detection and reconstruction based on 3DMM and neural networks
-    authors: <strong>Ziyi Cheng</strong>
+    authors: <strong>Ziyi Cheng</strong>, Ruihao Yin, Nabi
     conference_short: Image Processing/ML
     conference: A research project led by Prof. Wang of BJUT
     pdf: ./assets/files/3dmm_overview.pdf
