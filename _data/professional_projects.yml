@@ -1,5 +1,13 @@
 main:
 
+  - title: Robot Systems Design Project
+    authors: <strong>Ziyi Cheng</strong>, Alexander Morley, Geetik Mamillapalli, Michalis Iacovides
+    conference_short: Robotics
+    conference: Development of an object retrival robotic system that utilises a LeoRover and Trossen PincherX 150 Manipulator.(Press Code to know more)
+    pdf: 
+    code: https://github.com/ziyicheng427/RobotDesign_Group5
+    image: ./assets/img/robot.jpg
+
   - title: Virtual Winter Olympic Village
     authors: <strong>Ziyi Cheng</strong>, Siming Zheng, Ruihao Yin, Nabi, Xinyi Wang, Xinyu Wang
     conference_short: Virtual Reality
