@@ -5,14 +5,14 @@ main:
     conference_short: Robotics
     conference: Development of an object retrival robotic system that utilises a LeoRover and Trossen PincherX 150 Manipulator.(Press Code to know more)
     pdf: 
-    code: https://github.com/ziyicheng427/RobotDesign_Group5
+    more info: https://github.com/ziyicheng427/RobotDesign_Group5
     image: ./assets/img/robot.jpg
 
   - title: Virtual Winter Olympic Village
     authors: <strong>Ziyi Cheng</strong>, Siming Zheng, Ruihao Yin, Nabi, Xinyi Wang, Xinyu Wang
     conference_short: Virtual Reality
-    conference: A research-based practical project
-    pdf: ./assets/files/virtual_reality_overview.pdf
+    conference: This project aims to extend the reach and engagement of the Beijing Winter Olympics by creating an immersive digital representation of the Olympic Village.
+    more info: ./assets/files/virtual_reality_overview.pdf
     code:
     image: ./assets/img/virtual_reality.gif
 
