@@ -3,7 +3,7 @@ main:
   - title: Research on image compression algorithms based on deep learning
     authors: <strong>Ziyi Cheng</strong>
     conference_short: Image Processing/ML
-    conference: A research project led by Prof. Wang of BJUT
+    conference: Proposed an end-to-end image compression framework based on deep learning, which enhanced both efficiency and quility of image compression method.(Press PDF to know more)
     pdf: ./assets/files/image_compression_overview.pdf
     code: https://github.com/ziyicheng427/image_compression_qdram
     bibtex: 
@@ -13,7 +13,7 @@ main:
   - title: Machine learning-based study to distinguish sea otters from river otters
     authors: <strong>Ziyi Cheng</strong>
     conference_short: Machine Learning
-    conference: A research project led by Prof. Rogers of the University of Oxford
+    conference: Used machine learning to distinguish between see and river otters.(Press PDF to know more)
     pdf: ./assets/files/otter_overview.pdf
     code: 
     page: 
@@ -24,7 +24,7 @@ main:
   - title: Research on face detection and reconstruction based on 3DMM and neural networks
     authors: <strong>Ziyi Cheng</strong>, Ruihao Yin, Nabi
     conference_short: Image Processing/ML
-    conference: A research project led by Prof. Wang of BJUT
+    conference: Used MATLAB to recognize and reconstruct human faces.(Press PDF to know more)
     pdf: ./assets/files/3dmm_overview.pdf
     code: https://github.com/ziyicheng427/face_detection-face_recognization
     page: 
