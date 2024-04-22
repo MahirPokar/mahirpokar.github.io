@@ -24,6 +24,12 @@ I am a graduate student studying Robotics at the University of Manchester. I rec
 Post-processing.[J]. Multimedia tools and applications.(Under review)
 - **[Sept. 2022]**  Based on Machine Learning: Differentiating between Sea Otters and River Otters[c]. The 3rd International Conference on Signal Processing and Machine Learning (CONF-SPML 2023).
 
+## Technical Skills
+
+- **Programming languages**  Python, C++, C#, MATLAB
+- **Framework**  OpenCV, ROS2, Tensorflow, PyTorch
+- **Software**  Unity, Maya, Blender, Substance Painter, ZBrush, PS, Pr, Ae
+
 
 
 
