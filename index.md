@@ -28,7 +28,7 @@ Post-processing.[J]. Multimedia tools and applications.(Under review)
 
 - **Programming languages**  Python, C++, C#, MATLAB
 - **Framework**  OpenCV, ROS2, Tensorflow, PyTorch
-- **Software**  Unity, Maya, Blender, Substance Painter, ZBrush, PS, Pr, Ae
+- **Software**  Unity, Maya, Blender, Substance Painter, ZBrush, Ps, Pr, Ae
 
 
 
