@@ -5,21 +5,21 @@ main:
     conference_short: Robotics
     conference: Development of an object retrival robotic system that utilises a LeoRover and Trossen PincherX 150 Manipulator.(Press Code to know more)
     pdf: 
-    more info: https://github.com/ziyicheng427/RobotDesign_Group5
+    code: https://github.com/ziyicheng427/RobotDesign_Group5
     image: ./assets/img/robot.jpg
 
   - title: Virtual Winter Olympic Village
     authors: <strong>Ziyi Cheng</strong>, Siming Zheng, Ruihao Yin, Nabi, Xinyi Wang, Xinyu Wang
     conference_short: Virtual Reality
-    conference: This project aims to extend the reach and engagement of the Beijing Winter Olympics by creating an immersive digital representation of the Olympic Village.
-    more info: ./assets/files/virtual_reality_overview.pdf
+    conference: This project aims to extend the reach and engagement of the Beijing Winter Olympics by creating an immersive digital representation of the Olympic Village.(Press PDF to know more)
+    pdf: ./assets/files/virtual_reality_overview.pdf
     code:
     image: ./assets/img/virtual_reality.gif
 
   - title: OGI Immersive Space
     authors: <strong>Ziyi Cheng</strong>, Zidong Yin, Xiaoyang Zhang
     conference_short: Mix Reality
-    conference: A research-based practical project
+    conference: This project integrates cutting-edge visualisation, interactive elements and LowPoly style modeling to bring the 2022 Beijing Winter Olympic Games to life.(Press PDF to know more)
     pdf: ./assets/files/ogi_overview.pdf
     code: https://www.dropbox.com/scl/fi/cuctgrw1l6dxvz8un1xqg/OGI-Immersive-Space.mp4?rlkey=4lw4dnkba9agr4wsk1iz4h1jd&dl=0
     notes: National First Prize
@@ -28,7 +28,7 @@ main:
   - title: POP ART FIGHT 2D Game
     authors: <strong>Ziyi Cheng</strong>, Siming Zheng
     conference_short: Programming/Unity
-    conference: A practical project
+    conference: 2D game developed using Unity and C#.(Press PDF to know more)
     pdf: ./assets/files/popart_overview.pdf
     code: https://www.dropbox.com/scl/fo/6iimgznugpi9jbl6ath9c/h?rlkey=0w120wywb8bc7lqbf23w4wzaw&dl=0
     notes: Download and try
