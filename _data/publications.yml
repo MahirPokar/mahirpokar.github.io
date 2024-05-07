@@ -10,6 +10,26 @@ main:
     image: ./assets/img/image_compression.gif
     notes: Outstanding Thesis(Score with 92 out of 100)
 
+  - title: A study on the application of single RpLidar in obstacle detection
+    authors: <strong>Ziyi Cheng</strong>, Michalis Iacovides, Alexander Morley, Geetik Mamillapalli
+    conference_short: Robotics/Sensors
+    conference: Analysed the limitations of a single 360-degree two-dimensional RpLidar for obstacle detection.(Press Code to know more)
+    pdf: 
+    code: https://www.dropbox.com/scl/fi/n86zl892yga99nbuhxpmg/EEEN62011_coursework2_11334829.mp4?rlkey=f65b6cs14vb2mzcuddpmfsf63&st=6fja7syu&dl=0
+    bibtex: 
+    image: ./assets/img/EEEN62011_coursework2_11334829.gif
+    notes: 
+
+  - title: A study on the sustainable development of robotics
+    authors: <strong>Ziyi Cheng</strong>
+    conference_short: Robotics
+    conference: Creation of a popular science animation focusing on the application of robotics to SDGs.(Press Code to see the video)
+    pdf: 
+    code: https://www.dropbox.com/scl/fi/vaswxlbmhvfu9mvcnigdm/EEEN62011_coursework1_11334829.mp4?rlkey=rpqcox2a0b1a9ghf1l45h7ctj&st=z456fn8n&dl=0
+    bibtex: 
+    image: ./assets/img/EEEN62011_coursework1_11334829.gif
+    notes: 
+
 
   - title: Machine learning-based study to distinguish sea otters from river otters
     authors: <strong>Ziyi Cheng</strong>
