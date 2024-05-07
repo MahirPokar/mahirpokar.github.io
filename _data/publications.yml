@@ -17,7 +17,7 @@ main:
     pdf: 
     code: https://www.dropbox.com/scl/fi/n86zl892yga99nbuhxpmg/EEEN62011_coursework2_11334829.mp4?rlkey=f65b6cs14vb2mzcuddpmfsf63&st=6fja7syu&dl=0
     bibtex: 
-    image: .\assets\img\EEEN62011_coursework2_11334829.gif
+    image: ./assets/img/EEEN62011_coursework2_11334829.gif
     notes: 
 
     - title: A study on the sustainable development of robotics
@@ -27,7 +27,7 @@ main:
     pdf: 
     code: https://www.dropbox.com/scl/fi/vaswxlbmhvfu9mvcnigdm/EEEN62011_coursework1_11334829.mp4?rlkey=rpqcox2a0b1a9ghf1l45h7ctj&st=z456fn8n&dl=0
     bibtex: 
-    image: .\assets\img\EEEN62011_coursework1_11334829.gif
+    image: ./assets/img/EEEN62011_coursework1_11334829.gif
     notes: 
 
 
