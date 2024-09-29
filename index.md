@@ -20,7 +20,7 @@ I am a graduate student studying Robotics at the University of Manchester. I rec
 
 ## Publications & Working Papers
 
-- **[Sept. 2024]**  **Z. Cheng**, "EICNet: An End-to-End Efficient Learning-based Image Compression Network," in IEEE Access(Accepted)
+- **[Sept. 2024]**  **Cheng Z.** EICNet: An End-to-End Efficient Learning-based Image Compression Network[J]. IEEE Access, 2024.
 - **[Sept. 2024]**  **Z. Cheng**, Y. Zhang, “A Comparative Analysis of Traditional and CNN-based Object Recognition Techniques in Robotics,” 2024 IEEE 7th Information Technology, Networking, Electronic and Automation Control Conference(ITNEC)(Accepted)
 - **[Sept. 2024]**  **Z. Cheng**, Y. Zhang, “Based on Machine Learning: Differentiating between Sea Otters and River Otters,” 2024 IEEE 7th Information Technology, Networking, Electronic and Automation Control Conference (ITNEC)(Accepted)
 - **[Sept. 2024]**  Feng, S.; Wang, J.; Li, Z.; Wang, S.; **Cheng, Z.**; Yu, H.; Zhong, J. Research on Move-to-Escape Enhanced Dung Beetle Optimization and Its Applications. Biomimetics 2024, 9, 517. https://doi.org/10.3390/biomimetics9090517
