@@ -20,7 +20,7 @@ main:
     conference_short: Reinforcement Learning 
     conference: This project explores the paradigm of multi-agent reinforcement learning, particularly in cooperative environments. The sequential decision problem is modelled as a Markov decision process, and then an optimal policy is found using the temporal difference learning algorithm; Q-learning. Through this project, the challenges posed by MARLs non-stationarity, particularly the adaptation of learning agents to evolving policies of other agents is explored.
     pdf: ./assets/files/MARL_PROJECT.pdf
-    code: https://www.dropbox.com/scl/fi/cuctgrw1l6dxvz8un1xqg/OGI-Immersive-Space.mp4?rlkey=4lw4dnkba9agr4wsk1iz4h1jd&dl=0
+    code: https://github.com/MahirPokar/Third_year_MARL_project
     notes: 
     image: ./assets/img/gym_animation.gif
   
