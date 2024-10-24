@@ -2,7 +2,7 @@ main:
 
   - title: Commercial Technology Development 
     authors: <strong>Mahir Pokar</strong>
-    conference_short: Commercial Technology Development 
+    conference_short: Report
     conference: Analysis and assessment of ABB Distributed Control Systems in a changing business environment in terms of commercial technology development.
     pdf: .\assets\files\MCEL project.pdf
     image: .\assets\img\Screenshot 2024-10-24 122032.png
