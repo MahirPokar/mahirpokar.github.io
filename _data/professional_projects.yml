@@ -30,3 +30,11 @@ main:
     pdf: ./assets/files/SENSOR_Formatted.pdf
     image: ./assets/img/Screenshot 2024-10-24 164254.png
 
+  - title: Line Following Buggy
+    authors: <strong>Mahir Pokar</strong>
+    conference_short: Embedded Systems 
+    conference: In this second year group project we were tasked with making a line following buggy. As the team leader I managed the project ensuring we meet deadlines. As the control lead, I implemented a PID controller for the buggy, using an STM32 microcontroller. I also designed the sensor board on altium. 
+    pdf: ./assets/files/Final Reports Group 5.pdf
+    image: ./assets/img/Screenshot 2024-10-24 205531.png
+
+
