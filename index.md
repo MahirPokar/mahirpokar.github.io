@@ -8,9 +8,9 @@ After earning my Bachelor of Engineering in Mechatronic Engineering from The Uni
 
 ## Technical Skills
 
-- **Programming languages**  Python, C++, C#, MATLAB
-- **Framework**  OpenCV, ROS2, Tensorflow, PyTorch
-- **Software**  Unity, Maya, Blender, Substance Painter, ZBrush, Ps, Pr, Ae
+- **Programming languages**  Python, C++, C, MATLAB
+- **Framework**  ROS2, Tensorflow, PyTorch, openCV
+- **Software**  Solidworks, Altium, STM Cube IDE
 
 
 {% include_relative _includes/professional_projects.md %}
