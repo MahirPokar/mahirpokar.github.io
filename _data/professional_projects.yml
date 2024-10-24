@@ -1,21 +1,6 @@
 main:
 
-  - title: Commercial Technology Development 
-    authors: <strong>Mahir Pokar</strong>
-    conference_short: Report
-    conference: Analysis and assessment of ABB Distributed Control Systems in a changing business environment in terms of commercial technology development.
-    pdf: .\assets\files\MCEL project.pdf
-    image: .\assets\img\Screenshot 2024-10-24 122032.png
-
-  - title: Virtual Winter Olympic Village
-    authors: <strong>Ziyi Cheng</strong>, Siming Zheng, Ruihao Yin, Nabi, Xinyi Wang, Xinyu Wang
-    conference_short: Virtual Reality
-    conference: This project aims to extend the reach and engagement of the Beijing Winter Olympics by creating an immersive digital representation of the Olympic Village.(Press PDF to know more)
-    pdf: ./assets/files/virtual_reality_overview.pdf
-    code:
-    image: ./assets/img/virtual_reality.gif
-
-  - title: Multi-Agent Reinforcement Learning (MARL)
+ - title: Multi-Agent Reinforcement Learning (MARL)
     authors: <strong>Mahir Pokar</strong>
     conference_short: Reinforcement Learning 
     conference: This project explores the paradigm of multi-agent reinforcement learning, particularly in cooperative environments. The sequential decision problem is modelled as a Markov decision process, and then an optimal policy is found using the temporal difference learning algorithm; Q-learning. Through this project, the challenges posed by MARLs non-stationarity, particularly the adaptation of learning agents to evolving policies of other agents is explored.
@@ -23,7 +8,21 @@ main:
     code: https://github.com/MahirPokar/Third_year_MARL_project
     notes: 
     image: ./assets/img/gym_animation.gif
-  
+
+  - title: Commercial Technology Development 
+    authors: <strong>Mahir Pokar</strong>
+    conference_short: Report
+    conference: Analysis and assessment of ABB Distributed Control Systems in a changing business environment in terms of commercial technology development.
+    pdf: .\assets\files\MCEL project.pdf
+    image: .\assets\img\Screenshot 2024-10-24 122032.png
+
+  - title: Control of wheeled robots 
+    authors: <strong>Mahir Pokar</strong>
+    conference_short: Robotics 
+    conference: This video explores the performance of a robot through the implementation of closed-loop motion control using MATLAB and Simulink. It walks through key tasks involved in characterizing the robots behavior, analyzing the results, and interpreting the performance outcomes in a clear and effective way. The focus is on understanding how control systems affect robotic motion and how to communicate these findings.
+    Video: https://drive.google.com/file/d/1bwZ5lYM1-JX_hRTPMJVbAePZzoibVdDd/view?usp=sharing
+    image: ./assets/img/MRASmainvideo1-ezgif.com-video-to-gif-converter.gi
+ 
   - title: POP ART FIGHT 2D Game
     authors: <strong>Ziyi Cheng</strong>, Siming Zheng
     conference_short: Programming/Unity
