@@ -15,14 +15,19 @@ main:
     code:
     image: ./assets/img/virtual_reality.gif
 
-  - title: OGI Immersive Space
-    authors: <strong>Ziyi Cheng</strong>, Zidong Yin, Xiaoyang Zhang
-    conference_short: Mix Reality
-    conference: This project integrates cutting-edge visualisation, interactive elements and LowPoly style modeling to bring the 2022 Beijing Winter Olympic Games to life.(Press PDF to know more)
-    pdf: ./assets/files/ogi_overview.pdf
+  - title: Multi-Agent Reinforcement Learning (MARL)
+    authors: <strong>Mahir Pokar</strong>
+    conference_short: Reinforcement Learning 
+    conference: This project 
+explores the paradigm of multi-agent reinforcement learning, particularly in cooperative 
+environments. The sequential decision problem is modelled as a Markov decision process, and 
+then an optimal policy is found using the temporal difference learning algorithm; Q-learning. 
+Through this project, the challenges posed by MARLs non-stationarity, particularly the adaptation 
+of learning agents to evolving policies of other agents is explored.
+    pdf: ./assets/files/MARL_PROJECT.pdf
     code: https://www.dropbox.com/scl/fi/cuctgrw1l6dxvz8un1xqg/OGI-Immersive-Space.mp4?rlkey=4lw4dnkba9agr4wsk1iz4h1jd&dl=0
-    notes: National First Prize
-    image: ./assets/img/ogi.gif
+    notes: 
+    image: ./assets/img/gym_animation.gif
   
   - title: POP ART FIGHT 2D Game
     authors: <strong>Ziyi Cheng</strong>, Siming Zheng
