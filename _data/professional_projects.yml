@@ -18,9 +18,7 @@ main:
   - title: Multi-Agent Reinforcement Learning (MARL)
     authors: <strong>Mahir Pokar</strong>
     conference_short: Reinforcement Learning 
-    conference: This project 
-explores the paradigm of multi-agent reinforcement learning, particularly in cooperative 
-environments. The sequential decision problem is modelled as a Markov decision process, and 
+    conference: This project explores the paradigm of multi-agent reinforcement learning, particularly in cooperative environments. The sequential decision problem is modelled as a Markov decision process, and 
 then an optimal policy is found using the temporal difference learning algorithm; Q-learning. 
 Through this project, the challenges posed by MARLs non-stationarity, particularly the adaptation 
 of learning agents to evolving policies of other agents is explored.
