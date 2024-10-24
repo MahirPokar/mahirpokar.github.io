@@ -20,8 +20,8 @@ main:
     authors: <strong>Mahir Pokar</strong>
     conference_short: Robotics 
     conference: This video explores the performance of a robot through the implementation of closed-loop motion control using MATLAB and Simulink. It walks through key tasks involved in characterizing the robots behavior, analyzing the results, and interpreting the performance outcomes in a clear and effective way. The focus is on understanding how control systems affect robotic motion and how to communicate these findings.
-    Video: https://drive.google.com/file/d/1bwZ5lYM1-JX_hRTPMJVbAePZzoibVdDd/view?usp=sharing
-    image: ./assets/img/MRASmainvideo1-ezgif.com-video-to-gif-converter.gi
+    code: https://drive.google.com/file/d/1bwZ5lYM1-JX_hRTPMJVbAePZzoibVdDd/view?usp=sharing
+    image: ./assets/img/MRASmainvideo1-ezgif.com-video-to-gif-converter.gif
  
   - title: POP ART FIGHT 2D Game
     authors: <strong>Ziyi Cheng</strong>, Siming Zheng
