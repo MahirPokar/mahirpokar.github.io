@@ -23,12 +23,10 @@ main:
     code: https://drive.google.com/file/d/1bwZ5lYM1-JX_hRTPMJVbAePZzoibVdDd/view?usp=sharing
     image: ./assets/img/MRASmainvideo1-ezgif.com-video-to-gif-converter.gif
  
-  - title: POP ART FIGHT 2D Game
-    authors: <strong>Ziyi Cheng</strong>, Siming Zheng
-    conference_short: Programming/Unity
-    conference: 2D game developed using Unity and C#.(Press PDF to know more)
-    pdf: ./assets/files/popart_overview.pdf
-    code: https://www.dropbox.com/scl/fo/6iimgznugpi9jbl6ath9c/h?rlkey=0w120wywb8bc7lqbf23w4wzaw&dl=0
-    notes: Download and try
-    image: ./assets/img/popart.gif
+  - title: Portable capacitance meter
+    authors: <strong>Mahir Pokar</strong>
+    conference_short: Sensors and Instrumentation 
+    conference: A custom stray immune capacitance meter, based on the charge discharge circuit. 
+    pdf: ./assets/files/SENSOR_Formatted.pdf
+    image: ./assets/img/Screenshot 2024-10-24 164254.png
 
