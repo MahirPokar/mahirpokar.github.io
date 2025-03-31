@@ -2,3 +2,9 @@
 ---
 
 @import "minimal-light";
+
+// Custom overrides
+img.avatar {
+  width: 180px;
+  height: auto;
+}
