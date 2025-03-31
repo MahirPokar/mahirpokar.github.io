@@ -355,13 +355,18 @@ img {
   max-width:100%;
 }
 
+
 header {
   width:232px;
   float:left;
   position:fixed;
   -webkit-font-smoothing:subpixel-antialiased;
   padding-top:4.0em;
-  text-align:center
+
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;  // Aligns avatar and everything to the left
+  padding-left: 10px;       // Adjust as needed
 }
 
 
