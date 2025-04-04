@@ -89,7 +89,7 @@ Here are some projects I've worked on, showcasing a mix of robotics, AI, simulat
 ### 🚗 Autonomous Search and Retrieve Robot – ROS2 Robotic Systems Design Project
 
 <div style="border: 1px solid #ddd; border-radius: 8px; overflow: hidden; margin-bottom: 2rem; max-width: 800px; box-shadow: 0 2px 8px rgba(0,0,0,0.05);">
-  <img src="/assets/img/cnn_model.jpg" alt="ROS2 Robot" style="width: 100%; height: auto; max-height: 300px; object-fit: cover;">
+  <img src="/assets/img/golden_angle.png" alt="ROS2 Robot" style="width: 100%; height: auto; max-height: 300px; object-fit: cover;">
   <div style="padding: 1rem;">
     <p>
       Led the design and development of an autonomous mobile robot capable of searching for, identifying, and retrieving colored objects in an indoor environment using ROS2. As project lead and navigation specialist, I coordinated a multi-disciplinary team, set development milestones, and oversaw system integration. My technical contributions focused on implementing localization, path planning, and obstacle avoidance using ROS2 navigation stacks.
