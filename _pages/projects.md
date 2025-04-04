@@ -95,7 +95,7 @@ Here are some projects I've worked on, showcasing a mix of robotics, AI, simulat
       Led the design and development of an autonomous mobile robot capable of searching for, identifying, and retrieving colored objects in an indoor environment using ROS2. As project lead and navigation specialist, I coordinated a multi-disciplinary team, set development milestones, and oversaw system integration. My technical contributions focused on implementing localization, path planning, and obstacle avoidance using ROS2 navigation stacks.
     </p>
     <p>
-      🔗 <a href="https://github.com/MahirPokar/cnn-classifier" target="_blank">GitHub Repo</a>
+      🔗 <a href="https://github.com/MahirPokar/Autonomous-search-and-retrieval-robot-project.git" target="_blank">GitHub Repo</a>
     </p>
     <p><strong>Skills Learned:</strong></p>
     <ul>

@@ -25,9 +25,9 @@ Motivated Robotics and Mechatronics Engineer with hands-on experience in develop
 
 |     |     |     |
 | --- | --- | --- |
-| <img src="/images/uk_flag.png" width="20" height="15"> | 2024–2025 | MSc Robotics Engineering, University of Manchester |
-| <img src="/images/uk_flag.png" width="20" height="15"> | 2021–2024 | BEng (Hons) Mechatronic Engineering, University of Manchester — First Class (79%) |
-| <img src="/images/india_flag.png" width="20" height="15"> | 2018–2021 | BCom Accounting, Dr D. Y. Patil School of Business and Computer Science |
+| <img src="/assets/img/uk_flag.png" width="20" height="15"> | 2024–2025 | MSc Robotics Engineering, University of Manchester |
+| <img src="/assets/img/uk_flag.png" width="20" height="15"> | 2021–2024 | BEng (Hons) Mechatronic Engineering, University of Manchester — First Class (79%) |
+| <img src="/assets/img/indian_flag.png" width="20" height="15"> | 2018–2021 | BCom Accounting, Dr D. Y. Patil School of Business and Computer Science |
 
 ### Highlights
 - MSc focus: Autonomous systems, machine learning, AI, ROS 2.
@@ -41,14 +41,14 @@ Motivated Robotics and Mechatronics Engineer with hands-on experience in develop
 
 |     |     |     |
 | --- | --- | --- |
-| <img src="/images/uk_flag.png" width="20" height="15"> | 09/2023–Present | **Battery Management System Engineer**, Formula Student Society – Electric Vehicle Team |
+| <img src="/assets/img/uk_flag.png" width="20" height="15"> | 09/2023–Present | **Battery Management System Engineer**, Formula Student Society – Electric Vehicle Team |
 | | | - Developed BMS using Analog Devices chips provided by Tesla. |
 | | | - Programmed in C (STM32, Keil Studio) to monitor 720 cells. |
 | | | - Interfaced with Formula Student teams to ensure rule compliance. |
 
-| <img src="/images/uk_flag.png" width="20" height="15"> | 12/2021–03/2022 | **Customer Service**, Pitmaster |
+| <img src="/assets/img/uk_flag.png" width="20" height="15"> | 12/2021–03/2022 | **Customer Service**, Pitmaster |
 
-| <img src="/images/india_flag.png" width="20" height="15"> | 06/2020–03/2021 | **Article**, CA Mutha and Lahoti |
+| <img src="/assets/img/indian_flag.png" width="20" height="15"> | 06/2020–03/2021 | **Article**, CA Mutha and Lahoti |
 | | | - Operated in high-pressure professional environments. |
 
 ---
@@ -77,7 +77,7 @@ Motivated Robotics and Mechatronics Engineer with hands-on experience in develop
 
 ## Languages
 
-- <img src="/images/uk_flag.png" width="20" height="15"> English (Fluent)  
-- <img src="/images/india_flag.png" width="20" height="15"> Hindi (Fluent)  
-- <img src="/images/india_flag.png" width="20" height="15"> Gujarati (Fluent)
+- <img src="/assets/img/uk_flag.png" width="20" height="15"> English (Fluent)  
+- <img src="/assets/img/indian_flag.png" width="20" height="15"> Hindi (Fluent)  
+- <img src="/assets/img/indian_flag.png" width="20" height="15"> Gujarati (Fluent)
 
