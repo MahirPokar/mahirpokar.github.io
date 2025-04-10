@@ -9,75 +9,84 @@ redirect_from:
 
 {% include base_path %}
 
-# Mahir Pokar
+# Mahir Pokar  
 **Email:** mahirpokar7745@gmail.com  
-**Phone:** +44 07824412239  
-**LinkedIn:** [linkedin.com/in/mahirpokar](https://www.linkedin.com/in/mahirpokar)
+**Phone:** +44 07824 412239  
+**LinkedIn:** [linkedin.com/in/mahirpokar](https://www.linkedin.com/in/mahirpokar)  
+📄 [**Download Full CV (PDF)**](/assets/docs/Mahir_Pokar_CV.pdf)
 
 ---
 
-## Summary
-Motivated Robotics and Mechatronics Engineer with hands-on experience in developing embedded systems, battery management systems, and robotic solutions. Skilled in Python, C++, and C, with expertise in battery monitoring, reinforcement learning, and multi-agent systems. Proven track record of working in multidisciplinary teams, managing projects, and delivering innovative solutions.
+## 🧠 Summary  
+Motivated Robotics and Mechatronics Engineer with hands-on experience in embedded systems, battery management, and robotic control. Skilled in Python, C++, and C, with a strong foundation in reinforcement learning, battery systems, and control theory. Proven leadership in project settings and a drive to transform ideas into functional solutions. Looking to apply my expertise in innovative engineering roles.
 
 ---
 
-## Education
+## 🎓 Education  
 
-|     |     |     |
-| --- | --- | --- |
-| <img src="/assets/img/uk_flag.png" width="20" height="15"> | 2024–2025 | MSc Robotics Engineering, University of Manchester |
-| <img src="/assets/img/uk_flag.png" width="20" height="15"> | 2021–2024 | BEng (Hons) Mechatronic Engineering, University of Manchester — First Class (79%) |
-| <img src="/assets/img/indian_flag.png" width="20" height="15"> | 2018–2021 | BCom Accounting, Dr D. Y. Patil School of Business and Computer Science |
+**MSc Robotics Engineering**  
+*University of Manchester, UK* — *2024–2025*  
+- Focus on ROS2, autonomous systems, computer vision, and AI.  
+- Leading a team project: designing a search & retrieve robot using ROS2.  
 
-### Highlights
-- MSc focus: Autonomous systems, machine learning, AI, ROS 2.
-- Led search and retrieve rover project using ROS2.
-- BEng project: Multi-agent Q-learning simulation (78%).
-- Strong in Python, C++, control systems, and circuit design.
+**BEng (Hons) Mechatronic Engineering – First Class (79%)**  
+*University of Manchester, UK* — *2021–2024*  
+- Final-year project: multi-agent Q-learning simulation (78%).  
+- Excelled in control systems, circuit design, and Python/C++ programming.  
+- Balanced academics with extracurricular activities using project management principles.  
 
----
-
-## Work Experience
-
-|     |     |     |
-| --- | --- | --- |
-| <img src="/assets/img/uk_flag.png" width="20" height="15"> | 09/2023–Present | **Battery Management System Engineer**, Formula Student Society – Electric Vehicle Team |
-| | | - Developed BMS using Analog Devices chips provided by Tesla. |
-| | | - Programmed in C (STM32, Keil Studio) to monitor 720 cells. |
-| | | - Interfaced with Formula Student teams to ensure rule compliance. |
-
-| <img src="/assets/img/uk_flag.png" width="20" height="15"> | 12/2021–03/2022 | **Customer Service**, Pitmaster |
-
-| <img src="/assets/img/indian_flag.png" width="20" height="15"> | 06/2020–03/2021 | **Article**, CA Mutha and Lahoti |
-| | | - Operated in high-pressure professional environments. |
+**BCom in Accounting**  
+*Dr D. Y. Patil School of Business and Computer Science, India* — *2018–2021*  
+- Placed 49th nationwide in India’s CA Foundation Exam (2018).  
+- Gained strong financial insight—useful in technical project budgeting.
 
 ---
 
-## Projects & Technical Work
+## 🛠 Work Experience  
 
-- Built Arduino Uno-based line-following buggy with proximity sensors.
-- Designed and simulated reinforcement learning for MARL systems.
-- Developed search & retrieve robot with ROS2 Navigation stack.
+**Battery Management System Engineer**  
+*Formula Student EV Team, University of Manchester* — *Sept 2023–Present*  
+- Developed BMS using Tesla-provided Analog Devices chips.  
+- Programmed in C using STM Cube IDE and Keil Studio.  
+- Enabled real-time monitoring of 720 battery cells.  
+- Collaborated with technical and compliance teams under tight deadlines.  
 
----
+**Customer Service Assistant**  
+*Pitmaster, UK* — *Dec 2021–Mar 2022*  
+- Handled fast-paced customer service efficiently and professionally.  
 
-## Positions of Responsibility
-
-**Student Representative**, Dept. of Electrical and Electronic Engineering, University of Manchester (09/2021)
-- Coordinated with staff and students to facilitate improvements.
-
----
-
-## Interests and Activities
-
-- University of Manchester Robotics Society
-- Robotics, Machine Learning, Battery Systems, Embedded C
+**Article**  
+*CA Mutha and Lahoti, India* — *Jun 2020–Mar 2021*  
+- Worked under tight deadlines with precision in tax and audit tasks.
 
 ---
 
-## Languages
+## 🔬 Projects & Technical Work  
+- **ROS2 Search & Retrieve Robot** – Navigation & project lead for autonomous robot using LiDAR, Nav2, and YOLO.  
+- **CNN Classifier (CIFAR-10)** – Trained deep CNNs in PyTorch, compared with ORB+SVM using scikit-learn.  
+- **A* Path Planner in Python** – Implemented and visualized a grid-based planner with real-time pathfinding.  
+- **Closed-Loop Robot Control in MATLAB/Simulink** – Created a 2.5 min academic video analyzing controller performance.  
+- **Reinforcement Learning Simulation** – Built a multi-agent Q-learning simulation from scratch.
 
-- <img src="/assets/img/uk_flag.png" width="20" height="15"> English (Fluent)  
-- <img src="/assets/img/indian_flag.png" width="20" height="15"> Hindi (Fluent)  
-- <img src="/assets/img/indian_flag.png" width="20" height="15"> Gujarati (Fluent)
+---
+
+## 🤝 Positions of Responsibility  
+**Student Representative**  
+*Dept. of Electrical & Electronic Engineering, UoM* — *Sep 2021*  
+- Acted as a liaison between students and faculty, influencing departmental decisions.
+
+---
+
+## 💡 Interests & Activities  
+- Robotics Society Member  
+- Microcontrollers and embedded C development  
+- Control algorithms, battery systems, and autonomous navigation  
+- Built a line-following buggy with proximity sensors using Arduino and C++  
+
+---
+
+## 🌐 Languages  
+- English (Fluent) 🇬🇧  
+- Hindi (Fluent) 🇮🇳  
+- Gujarati (Fluent) 🇮🇳
 
