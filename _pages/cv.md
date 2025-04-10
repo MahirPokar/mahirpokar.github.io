@@ -13,7 +13,7 @@ redirect_from:
 **Email:** mahirpokar7745@gmail.com  
 **Phone:** +44 07824 412239  
 **LinkedIn:** [linkedin.com/in/mahirpokar](https://www.linkedin.com/in/mahirpokar)  
-📄 [**Download Full CV (PDF)**](/assets/docs/Mahir_Pokar_CV.pdf)
+📄 [**Download Full CV (PDF)**](/assets/docs/cv.pdf)
 
 ---
 
